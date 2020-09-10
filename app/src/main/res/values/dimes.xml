@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marker_0_100">8dp</dimen>
+    <dimen name="marker_100_1k">12dp</dimen>
+    <dimen name="marker_1k_10k">16dp</dimen>
+    <dimen name="marker_10k_50k">20dp</dimen>
+    <dimen name="marker_50k_150k">24dp</dimen>
+    <dimen name="marker_150k_500k">28dp</dimen>
+    <dimen name="marker_500k_1m">32dp</dimen>
+    <dimen name="marker_1m_2m">36dp</dimen>
+    <dimen name="marker_2m_4m">40dp</dimen>
+    <dimen name="marker_4m_8m">44dp</dimen>
+    <dimen name="marker_8m_16m">48dp</dimen>
+    <dimen name="marker_16m_plus">52dp</dimen>
+
+    <dimen name="map_frag_text_size">16sp</dimen>
+</resources>

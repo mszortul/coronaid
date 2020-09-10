@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305002621183",
+    "firebase_url": "https://coronaid-fabfc.firebaseio.com",
+    "project_id": "coronaid-fabfc",
+    "storage_bucket": "coronaid-fabfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305002621183:android:4f7ea2c8d1f3d4c17d84ca",
+        "android_client_info": {
+          "package_name": "com.coronaid.coronaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305002621183-oullnn3887bhsnf4o2isoi60jvkf8ba8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoMLvy6EvQOPwqkwAQn6FwztYM0zkZys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305002621183-oullnn3887bhsnf4o2isoi60jvkf8ba8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

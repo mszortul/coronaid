@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="redCol">#D81B61</color>
+    <color name="redNew">#E5050B</color>
+    <color name="redLight">#FF6E64</color>
+    <color name="redDark">#D10800</color>
+    <color name="greenLight">#75CA6F</color>
+    <color name="redLight2">#EC948C</color>
+
+    <color name="rowBackground">#F0F0F0</color>
+    <color name="profileImageBackground">#909090</color>
+
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_pink">#DFAAAA</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#e4e4e4</color>
+    <color name="grey">#8b8b8b</color>
+    <color name="dark_grey">#696969</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_black">#4F4F4F</color>
+
+    <color name="ad_color">#00f014</color>
+
+    <color name="link_color">#28803F</color>
+
+    <color name="inactive_legend">#a1a1a1</color>
+
+    <color name="count_background">#ebebeb</color>
+
+    <color name="count_text">#7d7d7d</color>
+
+    <color name="curved_rect_outer_ring">#bababa</color>
+
+
+    <color name="toolbar_native">#395e5d</color>
+    <color name="toolbar_clicked">#00D1C3</color>
+
+    <color name="infection_color">#9400bd</color>
+    <color name="infection_color_transparent">#889400bd</color>
+    <color name="death_color">#bd0000</color>
+    <color name="death_color_transparent">#88bd0000</color>
+    <color name="recovered_color">#009608</color>
+    <color name="recovered_color_transparent">#88009608</color>
+    <color name="critical_color">#b6bf00</color>
+    <color name="critical_color_transparent">#88b6bf00</color>
+
+    <color name="app_logo_color">#a8323a</color>
+    <color name="app_logo_color_nclick">#88a8323a</color>
+
+
+
+
+</resources>

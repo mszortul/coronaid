@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">CoronAid</string>
+
+    <!-- Main Activity strings -->
+
+    <string name="toolbar_dashboard">Dashboard</string>
+    <string name="toolbar_map">Map</string>
+    <string name="toolbar_news">News</string>
+    <string name="toolbar_other">Options</string>
+
+    <string name="toolbar_dashboard_tr">Anasayfa</string>
+    <string name="toolbar_map_tr">Harita</string>
+    <string name="toolbar_news_tr">Haberler</string>
+    <string name="toolbar_other_tr">Seçenekler</string>
+
+    <!-- Home Fragment strings -->
+
+    <string name="infection_text">INFECTIONS</string>
+    <string name="death_text">DEATHS</string>
+    <string name="recovered_text">RECOVERIES</string>
+    <string name="critical_text">CRITICAL</string>
+    <string name="infection_text_tr">HASTA</string>
+    <string name="death_text_tr">ÖLÜM</string>
+    <string name="recovered_text_tr">İYİLEŞME</string>
+    <string name="critical_text_tr">KRİTİK</string>
+
+    <string name="label_country">Country</string>
+    <string name="label_total">Total</string>
+    <string name="label_today">Today</string>
+    <string name="label_country_tr">Ülke</string>
+    <string name="label_total_tr">Toplam</string>
+    <string name="label_today_tr">Bugün</string>
+
+    <string name="country_search_bar_hint">Search by country name</string>
+    <string name="country_search_bar_hint_tr">Ülke ismi ile ara</string>
+
+    <string name="null_placeholder">----</string>
+
+    <!-- Map Fragment strings -->
+
+    <string name="map_infect">Infections</string>
+    <string name="map_death">Deaths</string>
+    <string name="map_recover">Recoveries</string>
+    <string name="map_critical">Critical condition</string>
+
+    <string name="map_infect_tr">Hastalar</string>
+    <string name="map_death_tr">Ölümler</string>
+    <string name="map_recover_tr">İyileşmeler</string>
+    <string name="map_critical_tr">Kritik durumdakiler</string>
+
+
+    <!-- News Fragment strings -->
+
+    <string name="sample_link">coronaid.app</string>
+
+
+    <!-- Option Fragment strings -->
+
+    <string name="option_language">Language</string>
+    <string name="option_dark_mode">Dark mode</string>
+    <string name="lang_header">Choose a language</string>
+    <string name="tr_lang">Turkish</string>
+    <string name="en_lang">English</string>
+    <string name="option_language_tr">Dil değiştir</string>
+    <string name="option_dark_mode_tr">Gece modu</string>
+    <string name="lang_header_tr">Dil seçimi</string>
+    <string name="tr_lang_tr">Türkçe</string>
+    <string name="en_lang_tr">İngilizce</string>
+    <string name="option_notification">Notifications</string>
+    <string name="option_notification_tr">Bildirimler</string>
+
+    <!-- News Activity -->
+
+    <string name="sample_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum aliquam finibus. Vestibulum lobortis libero tellus, eleifend vulputate lectus vulputate at. </string>
+    <string name="sample_date">6.48 PM on March 14, 2020</string>
+    <string name="sample_text">\tCurabitur urna arcu, eleifend in tempus molestie, euismod quis turpis. Aliquam consequat a dui a euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Nullam eleifend sit amet mauris vitae laoreet. Pellentesque sagittis lacus nec quam laoreet, non faucibus enim sagittis. Morbi efficitur turpis nec ornare laoreet. Quisque tristique pharetra diam, venenatis interdum urna malesuada id. Sed posuere velit libero, sed ultricies urna posuere a. Ut vel lectus ultricies, porttitor quam quis, elementum nibh. Nunc lacus lectus, tempor vitae placerat ut, egestas ut nulla. Duis sit amet nunc justo. Sed scelerisque, massa eu sollicitudin finibus, lacus neque lacinia libero, et lacinia enim tortor vel nisl. \n\t Phasellus eros metus, vestibulum eget congue ut, venenatis vitae eros. Suspendisse cursus, felis tincidunt cursus pharetra, libero eros consequat ligula, sed mattis ante nisi quis purus. Integer nec lacus elit. Fusce dui est, dictum sit amet mattis sit amet, placerat at lacus. Integer eleifend consectetur nisl a accumsan. Donec fermentum pretium ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque in nibh tincidunt, fermentum nisl ac, finibus augue. Fusce eu turpis accumsan, gravida diam tincidunt, iaculis metus. Maecenas tincidunt finibus nibh, sit amet volutpat urna. Nam rhoncus lobortis dignissim. Pellentesque dapibus vulputate dolor, non blandit elit. Donec auctor posuere bibendum. Mauris venenatis, nisi nec viverra pharetra, neque lorem dapibus arcu, id ultricies ipsum leo vel leo. Nunc eu tempus urna, et aliquam dolor.</string>
+
+
+    <!-- Notifications -->
+
+    <string name="notifTitle_tr">Koronavirüs ile ilgili son gelişmeleri takip et</string>
+    <string name="notifBody_tr">Haberler, istatistikler ve daha fazlası…</string>
+    <string name="notifTitle">Follow the latest reports on coronavirus</string>
+    <string name="notifBody">News, statistics and more…</string>
+
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
